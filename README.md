@@ -1,0 +1,2 @@
+# proje
+proje içeriği oluşturma
